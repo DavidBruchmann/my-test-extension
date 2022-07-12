@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:my_test_extension/Resources/Private/Language/locallang_csh_tx_mytestextension_domain_model_mysubmodel.xlf" date="2022-07-12T08:34:35Z" product-name="my_test_extension">
+		<header/>
+		<body>
+			<trans-unit id="title.description" resname="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="description.description" resname="description.description">
+				<source>description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

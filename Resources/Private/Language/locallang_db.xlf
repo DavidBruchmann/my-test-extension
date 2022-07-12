@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:my_test_extension/Resources/Private/Language/locallang_db.xlf" date="2022-07-12T08:34:35Z" product-name="my_test_extension">
+		<header/>
+		<body>
+			<trans-unit id="tx_mytestextension_domain_model_mymainmodel" resname="tx_mytestextension_domain_model_mymainmodel">
+				<source>My Main Model</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mymainmodel.title" resname="tx_mytestextension_domain_model_mymainmodel.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mymainmodel.description" resname="tx_mytestextension_domain_model_mymainmodel.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mymainmodel.sub_models" resname="tx_mytestextension_domain_model_mymainmodel.sub_models">
+				<source>Sub Models</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mysubmodel" resname="tx_mytestextension_domain_model_mysubmodel">
+				<source>My Sub Model</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mysubmodel.title" resname="tx_mytestextension_domain_model_mysubmodel.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_mytestextension_domain_model_mysubmodel.description" resname="tx_mytestextension_domain_model_mysubmodel.description">
+				<source>Description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
